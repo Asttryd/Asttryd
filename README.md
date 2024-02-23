@@ -22,8 +22,8 @@
   <img align="center" alt="Asttryd-Node.Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Asttryd-MongoDB" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Asttryd-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="right" alt="Asttryd-Gif" src="https://media.discordapp.net/attachments/454472068021616661/1210634159513669674/gifmaker_me.gif?ex=65eb45ec&is=65d8d0ec&hm=6df28eb2eef8808ee2e64e4a9430f1744bdcdb165ce42c2efdd0f3e84412d1e7&=&width=200&height=200" />
 </div>
-
 
 ### Learning platforms
 <div style="display: inline_block"><br>
