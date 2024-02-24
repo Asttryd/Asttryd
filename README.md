@@ -1,4 +1,4 @@
-## Hello! I am Asttryd
+## Hello! I'm Asttryd
 
 - 🔭 I’m currently working on Backend/Mobile
 - 🌱 I’m currently learning Java, Dart, Flutter, HTML, CSS, JavaScript and Python
