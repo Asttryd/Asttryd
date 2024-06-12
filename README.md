@@ -1,7 +1,7 @@
 ## Hello! I'm Asttryd
 
 - 🔭 Currently working on Backend with Node.js
-- 🌱 I’m currently learning Java, Node.js, TypeScript, HTML, CSS, JavaScript, Dart and Flutter
+- 🌱 I’m currently learning Java, Node.js, TypeScript, HTML, CSS, JavaScript, React and TailwindCSS
 - 😄 Pronouns: She/Her
 
 <div>
