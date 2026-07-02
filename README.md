@@ -11,9 +11,7 @@
 
 ### My skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Asttryd-Java" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Asttryd-Dart" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img align="center" alt="Asttryd-Flutter" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Asttryd-Renpy" height="50em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/renpy.svg" />
   <img align="center" alt="Asttryd-Canva" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="center" alt="Asttryd-Figma" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Asttryd-TS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -22,6 +20,9 @@
   <img align="center" alt="Asttryd-Node.Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Asttryd-MongoDB" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Asttryd-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Asttryd-Flutter" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Asttryd-Java" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Asttryd-Dart" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="right" alt="Asttryd-Gif" src="https://media.discordapp.net/attachments/454472068021616661/1210634159513669674/gifmaker_me.gif?ex=65eb45ec&is=65d8d0ec&hm=6df28eb2eef8808ee2e64e4a9430f1744bdcdb165ce42c2efdd0f3e84412d1e7&=&width=200&height=200" />
 </div>
 
